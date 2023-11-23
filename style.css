@@ -239,4 +239,9 @@
             width: 100px;
             height: 100px;
         }
+        .end {
+            margin-top: 10px;
+            padding-top: 10px;
+            width: 100%;
+        }
     }
